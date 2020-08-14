@@ -1,0 +1,31 @@
+{
+  "name": "create-next-app-cli",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.13.0",
+    "firebase": "^7.14.3",
+    "firebase-admin": "^8.12.1",
+    "next": "9.3.6",
+    "next-page-transitions": "^1.0.0-beta.2",
+    "nextjs-progressbar": "0.0.5",
+    "react": "16.13.1",
+    "react-alert": "^7.0.0",
+    "react-alert-template-basic": "^1.0.0",
+    "react-confirm-alert": "^2.6.1",
+    "react-dom": "16.13.1",
+    "react-firebase-file-uploader": "^2.4.3",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^9.10.13",
+    "uuid": "^8.2.0"
+  }
+}
